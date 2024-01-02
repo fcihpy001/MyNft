@@ -1,8 +1,17 @@
 {
-  "name": "OpenSea Creatures",
-  "description": "OpenSea Creatures are adorable aquatic beings primarily for demonstrating what can be done using the OpenSea platform. Adopt one today to try out all the OpenSea buying, selling, and bidding feature set.",
-  "image": "https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png",
-  "external_link": "https://www.baidu.com/",
-  "seller_fee_basis_points": 88,
-  "fee_recipient": "0xDc8611873fab19209f8845714a02eD17e287aB7C"
+	"name": "OpenSea Creatures",
+	"description": "OpenSea Creatures are adorable aquatic beings primarily for demonstrating what can be done using the OpenSea platform. Adopt one today to try out all the OpenSea buying, selling, and bidding feature set.",
+	"image": "https://t7.baidu.com/it/u=1595072465,3644073269&fm=193&f=GIF",
+	"external_link": "https://www.taotiejiuzhou.com/",
+	"seller_fee_basis_points": 88,
+	"fee_recipient": "0xDc8611873fab19209f8845714a02eD17e287aB7C",
+	"attributes": [{
+			"trait_type": "Healty",
+			"value": 35
+		},
+		{
+			"trait_type": "yanzhi",
+			"value": 90
+		}
+	]
 }
